@@ -1,3 +1,3 @@
 #!/bin/bash
-source /home/nanoman/twrp_notify/venv/bin/activate
-python3 /home/nanoman/twrp_notify/twrp_notify.py
+source /home/nanoman/bhv_notify/venv/bin/activate
+python3 /home/nanoman/bhv_notify/bhv_book_notify.py.py
